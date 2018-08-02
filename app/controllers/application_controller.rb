@@ -292,119 +292,119 @@ elsif @user_ans == 35220
 
 elsif @user_ans == 13320
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR COCKAPOO" img="http://www.ozcockapoos.net/ginger3.JPG”
+      descrip="INSERT DESCRIPTION FOR COCKAPOO" img="http://www.ozcockapoos.net/ginger3.JPG"
       url="https://en.wikipedia.org/wiki/Cockapoo"
 
 elsif @user_ans == 23320
       dogName="Cavalier King Charles."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg”
+      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 33320
       dogName="German Shepard."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR GERMAN SHEPARD" img="https://dgicdplf3pvka.cloudfront.net/images/dogbreeds/large/German-Shepherd.jpg”
+      descrip="INSERT DESCRIPTION FOR GERMAN SHEPARD" img="https://dgicdplf3pvka.cloudfront.net/images/dogbreeds/large/German-Shepherd.jpg"
       url="https://en.wikipedia.org/wiki/German_Shepherd"
 
 elsif @user_ans == 14320
       dogName="Cavalier King Charles."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg”
+      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 24320
       dogName="Cavalier King Charles."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg”
+      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 34320
       dogName="German Shepard."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR GERMAN SHEPARD" img="https://dgicdplf3pvka.cloudfront.net/images/dogbreeds/large/German-Shepherd.jpg”
+      descrip="INSERT DESCRIPTION FOR GERMAN SHEPARD" img="https://dgicdplf3pvka.cloudfront.net/images/dogbreeds/large/German-Shepherd.jpg"
       url="https://en.wikipedia.org/wiki/German_Shepherd"
 
 elsif @user_ans == 15320
       dogName="Cavalier King Charles."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg”
+      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 25320
       dogName="Cavalier King Charles."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg”
+      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 35320
       dogName="German Shepard."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR GERMAN SHEPARD" img="https://dgicdplf3pvka.cloudfront.net/images/dogbreeds/large/German-Shepherd.jpg”
+      descrip="INSERT DESCRIPTION FOR GERMAN SHEPARD" img="https://dgicdplf3pvka.cloudfront.net/images/dogbreeds/large/German-Shepherd.jpg"
       url="https://en.wikipedia.org/wiki/German_Shepherd"
 
 elsif @user_ans == 13130
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR COCKAPOO" img="http://www.ozcockapoos.net/ginger3.JPG”
+      descrip="INSERT DESCRIPTION FOR COCKAPOO" img="http://www.ozcockapoos.net/ginger3.JPG"
       url="https://en.wikipedia.org/wiki/Cockapoo"
 
 elsif @user_ans == 23130
       dogName="Cavalier King Charles."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg”
+      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 33130
       dogName="Cavalier King Charles."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg”
+      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 14130
       dogName="Cavalier King Charles."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg”
+      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 24130
       dogName="Cavalier King Charles."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg”
+      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 34130
       dogName="Cavalier King Charles."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg”
+      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 15130
       dogName="Cavalier King Charles."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg”
+      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 25130
       dogName="Cavalier King Charles."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg”
+      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 35130
       dogName="Cavalier King Charles."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg”
+      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 13230
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR COCKAPOO" img="http://www.ozcockapoos.net/ginger3.JPG”
+      descrip="INSERT DESCRIPTION FOR COCKAPOO" img="http://www.ozcockapoos.net/ginger3.JPG"
       url="https://en.wikipedia.org/wiki/Cockapoo"
 
 elsif @user_ans == 23230
       dogName="Cavalier King Charles."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg”
+      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 33230
