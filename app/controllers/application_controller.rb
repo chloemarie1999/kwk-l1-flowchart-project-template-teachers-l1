@@ -37,7 +37,7 @@ class MyApp < Sinatra::Base
       dogName="Cockapoo."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="INSERT DESCRIPTION FOR COCKAPOO" 
-      img="http://www.ozcockapoos.net/ginger3.JPG”
+      img="http://www.ozcockapoos.net/ginger3.JPg"
       url="https://en.wikipedia.org/wiki/Cockapoo"
 
     elsif @user_ans == 23110
