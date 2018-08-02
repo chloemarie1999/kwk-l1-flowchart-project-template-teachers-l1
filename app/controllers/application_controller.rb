@@ -287,7 +287,7 @@ elsif @user_ans == 15220
 elsif @user_ans == 35220
       dogName="German Shepard."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR GERMAN SHEPARD" img="https://dgicdplf3pvka.cloudfront.net/images/dogbreeds/large/German-Shepherd.jpg”
+      descrip="INSERT DESCRIPTION FOR GERMAN SHEPARD" img="https://dgicdplf3pvka.cloudfront.net/images/dogbreeds/large/German-Shepherd.jpg"
       url="https://en.wikipedia.org/wiki/German_Shepherd"
 
 elsif @user_ans == 13320
