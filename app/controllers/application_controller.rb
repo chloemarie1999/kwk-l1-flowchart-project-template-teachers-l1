@@ -416,7 +416,7 @@ elsif @user_ans == 35320
 elsif @user_ans == 13130
       dogName="Cockapoo."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR COCKAPOO" 
+      descrip="They adapt well to living to apartment living, are very good choices for new owners, can tolerate being alone, and can tolerate the cold and heat very well. They are very friendly towards everybody. They do not shed, do not drool, are easy to groom, have potential to gain weight, and not big dogs. They can be trained, are very smart, and can bark and howl. They have lots of energy, need lots of exercise, and are extremely playful." 
       img="http://www.ozcockapoos.net/ginger3.JPG"
       url="https://en.wikipedia.org/wiki/Cockapoo"
 
