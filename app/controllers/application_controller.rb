@@ -48,7 +48,7 @@ Bundler.require
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
-    end 
+    # end 
 #     elsif @user_ans == 33110
 #       dogName="Cockapoo."
 #       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
