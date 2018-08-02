@@ -414,175 +414,175 @@ elsif @user_ans == 35320
       url="https://en.wikipedia.org/wiki/German_Shepherd"
 
 elsif @user_ans == 13130
-      dogName="Cockapoo."
+      dogName="Cockapoo"
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="They adapt well to living to apartment living, are very good choices for new owners, can tolerate being alone, and can tolerate the cold and heat very well. They are very friendly towards everybody. They do not shed, do not drool, are easy to groom, have potential to gain weight, and not big dogs. They can be trained, are very smart, and can bark and howl. They have lots of energy, need lots of exercise, and are extremely playful." 
       img="http://www.ozcockapoos.net/ginger3.JPG"
       url="https://en.wikipedia.org/wiki/Cockapoo"
 
 elsif @user_ans == 23130
-      dogName="Cavalier King Charles."
+      dogName="Cavalier King Charles"
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="They can adapt very well to apartment living, are very good for new owners, but can not tolerate being alone very well. They can tolerate the cold well but the not the best and the same with the heat. They are very friendly towards everyone, including other dogs. They shed a little bit but not much, don’t drool, are relatively easy to groom, have potential to gain weight, and are not large dogs. They are pretty easy to train, have a relatively high energy level, need plenty of exercise, and are extremely playful." 
       img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 33130
-      dogName="Cavalier King Charles."
+      dogName="Cavalier King Charles"
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="They can adapt very well to apartment living, are very good for new owners, but can not tolerate being alone very well. They can tolerate the cold well but the not the best and the same with the heat. They are very friendly towards everyone, including other dogs. They shed a little bit but not much, don’t drool, are relatively easy to groom, have potential to gain weight, and are not large dogs. They are pretty easy to train, have a relatively high energy level, need plenty of exercise, and are extremely playful." 
       img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 14130
-      dogName="Cavalier King Charles."
+      dogName="Cavalier King Charles"
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="They can adapt very well to apartment living, are very good for new owners, but can not tolerate being alone very well. They can tolerate the cold well but the not the best and the same with the heat. They are very friendly towards everyone, including other dogs. They shed a little bit but not much, don’t drool, are relatively easy to groom, have potential to gain weight, and are not large dogs. They are pretty easy to train, have a relatively high energy level, need plenty of exercise, and are extremely playful." 
       img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 24130
-      dogName="Cavalier King Charles."
+      dogName="Cavalier King Charles"
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="They can adapt very well to apartment living, are very good for new owners, but can not tolerate being alone very well. They can tolerate the cold well but the not the best and the same with the heat. They are very friendly towards everyone, including other dogs. They shed a little bit but not much, don’t drool, are relatively easy to groom, have potential to gain weight, and are not large dogs. They are pretty easy to train, have a relatively high energy level, need plenty of exercise, and are extremely playful." 
       img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 34130
-      dogName="Cavalier King Charles."
+      dogName="Cavalier King Charles"
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="They can adapt very well to apartment living, are very good for new owners, but can not tolerate being alone very well. They can tolerate the cold well but the not the best and the same with the heat. They are very friendly towards everyone, including other dogs. They shed a little bit but not much, don’t drool, are relatively easy to groom, have potential to gain weight, and are not large dogs. They are pretty easy to train, have a relatively high energy level, need plenty of exercise, and are extremely playful." 
       img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 15130
-      dogName="Cavalier King Charles."
+      dogName="Cavalier King Charles"
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="They can adapt very well to apartment living, are very good for new owners, but can not tolerate being alone very well. They can tolerate the cold well but the not the best and the same with the heat. They are very friendly towards everyone, including other dogs. They shed a little bit but not much, don’t drool, are relatively easy to groom, have potential to gain weight, and are not large dogs. They are pretty easy to train, have a relatively high energy level, need plenty of exercise, and are extremely playful." 
       img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 25130
-      dogName="Cavalier King Charles."
+      dogName="Cavalier King Charles"
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="They can adapt very well to apartment living, are very good for new owners, but can not tolerate being alone very well. They can tolerate the cold well but the not the best and the same with the heat. They are very friendly towards everyone, including other dogs. They shed a little bit but not much, don’t drool, are relatively easy to groom, have potential to gain weight, and are not large dogs. They are pretty easy to train, have a relatively high energy level, need plenty of exercise, and are extremely playful." 
       img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 35130
-      dogName="Cavalier King Charles."
+      dogName="Cavalier King Charles"
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="They can adapt very well to apartment living, are very good for new owners, but can not tolerate being alone very well. They can tolerate the cold well but the not the best and the same with the heat. They are very friendly towards everyone, including other dogs. They shed a little bit but not much, don’t drool, are relatively easy to groom, have potential to gain weight, and are not large dogs. They are pretty easy to train, have a relatively high energy level, need plenty of exercise, and are extremely playful." 
       img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 13230
-      dogName="Cockapoo."
+      dogName="Cockapoo"
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="They adapt well to living to apartment living, are very good choices for new owners, can tolerate being alone, and can tolerate the cold and heat very well. They are very friendly towards everybody. They do not shed, do not drool, are easy to groom, have potential to gain weight, and not big dogs. They can be trained, are very smart, and can bark and howl. They have lots of energy, need lots of exercise, and are extremely playful." 
       img="http://www.ozcockapoos.net/ginger3.JPG"
       url="https://en.wikipedia.org/wiki/Cockapoo"
 
 elsif @user_ans == 23230
-      dogName="Cavalier King Charles."
+      dogName="Cavalier King Charles"
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="They can adapt very well to apartment living, are very good for new owners, but can not tolerate being alone very well. They can tolerate the cold well but the not the best and the same with the heat. They are very friendly towards everyone, including other dogs. They shed a little bit but not much, don’t drool, are relatively easy to groom, have potential to gain weight, and are not large dogs. They are pretty easy to train, have a relatively high energy level, need plenty of exercise, and are extremely playful." 
       img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 33230
-      dogName="Cavalier King Charles."
+      dogName="Cavalier King Charles"
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="They can adapt very well to apartment living, are very good for new owners, but can not tolerate being alone very well. They can tolerate the cold well but the not the best and the same with the heat. They are very friendly towards everyone, including other dogs. They shed a little bit but not much, don’t drool, are relatively easy to groom, have potential to gain weight, and are not large dogs. They are pretty easy to train, have a relatively high energy level, need plenty of exercise, and are extremely playful." 
       img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 14230
-      dogName="Cavalier King Charles."
+      dogName="Cavalier King Charles"
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="They can adapt very well to apartment living, are very good for new owners, but can not tolerate being alone very well. They can tolerate the cold well but the not the best and the same with the heat. They are very friendly towards everyone, including other dogs. They shed a little bit but not much, don’t drool, are relatively easy to groom, have potential to gain weight, and are not large dogs. They are pretty easy to train, have a relatively high energy level, need plenty of exercise, and are extremely playful." 
       img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 24230
-      dogName="Cavalier King Charles."
+      dogName="Cavalier King Charles"
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="They can adapt very well to apartment living, are very good for new owners, but can not tolerate being alone very well. They can tolerate the cold well but the not the best and the same with the heat. They are very friendly towards everyone, including other dogs. They shed a little bit but not much, don’t drool, are relatively easy to groom, have potential to gain weight, and are not large dogs. They are pretty easy to train, have a relatively high energy level, need plenty of exercise, and are extremely playful." 
       img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 34230
-      dogName="Cavalier King Charles."
+      dogName="Cavalier King Charles"
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="They can adapt very well to apartment living, are very good for new owners, but can not tolerate being alone very well. They can tolerate the cold well but the not the best and the same with the heat. They are very friendly towards everyone, including other dogs. They shed a little bit but not much, don’t drool, are relatively easy to groom, have potential to gain weight, and are not large dogs. They are pretty easy to train, have a relatively high energy level, need plenty of exercise, and are extremely playful." 
       img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 15230
-      dogName="Cavalier King Charles."
+      dogName="Cavalier King Charles"
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="They can adapt very well to apartment living, are very good for new owners, but can not tolerate being alone very well. They can tolerate the cold well but the not the best and the same with the heat. They are very friendly towards everyone, including other dogs. They shed a little bit but not much, don’t drool, are relatively easy to groom, have potential to gain weight, and are not large dogs. They are pretty easy to train, have a relatively high energy level, need plenty of exercise, and are extremely playful." 
       img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 25230
-      dogName="Cavalier King Charles."
+      dogName="Cavalier King Charles"
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="They can adapt very well to apartment living, are very good for new owners, but can not tolerate being alone very well. They can tolerate the cold well but the not the best and the same with the heat. They are very friendly towards everyone, including other dogs. They shed a little bit but not much, don’t drool, are relatively easy to groom, have potential to gain weight, and are not large dogs. They are pretty easy to train, have a relatively high energy level, need plenty of exercise, and are extremely playful." 
       img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 35230
-      dogName="Cavalier King Charles."
+      dogName="Cavalier King Charles"
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="They can adapt very well to apartment living, are very good for new owners, but can not tolerate being alone very well. They can tolerate the cold well but the not the best and the same with the heat. They are very friendly towards everyone, including other dogs. They shed a little bit but not much, don’t drool, are relatively easy to groom, have potential to gain weight, and are not large dogs. They are pretty easy to train, have a relatively high energy level, need plenty of exercise, and are extremely playful." 
       img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 13330
-      dogName="Cockapoo."
+      dogName="Cockapoo"
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="They adapt well to living to apartment living, are very good choices for new owners, can tolerate being alone, and can tolerate the cold and heat very well. They are very friendly towards everybody. They do not shed, do not drool, are easy to groom, have potential to gain weight, and not big dogs. They can be trained, are very smart, and can bark and howl. They have lots of energy, need lots of exercise, and are extremely playful." 
       img="http://www.ozcockapoos.net/ginger3.JPG"
       url="https://en.wikipedia.org/wiki/Cockapoo"
 
 elsif @user_ans == 23330
-      dogName="Cavalier King Charles."
+      dogName="Cavalier King Charles"
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="They can adapt very well to apartment living, are very good for new owners, but can not tolerate being alone very well. They can tolerate the cold well but the not the best and the same with the heat. They are very friendly towards everyone, including other dogs. They shed a little bit but not much, don’t drool, are relatively easy to groom, have potential to gain weight, and are not large dogs. They are pretty easy to train, have a relatively high energy level, need plenty of exercise, and are extremely playful." 
       img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 33330
-      dogName="Cavalier King Charles."
+      dogName="Cavalier King Charles"
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="They can adapt very well to apartment living, are very good for new owners, but can not tolerate being alone very well. They can tolerate the cold well but the not the best and the same with the heat. They are very friendly towards everyone, including other dogs. They shed a little bit but not much, don’t drool, are relatively easy to groom, have potential to gain weight, and are not large dogs. They are pretty easy to train, have a relatively high energy level, need plenty of exercise, and are extremely playful." 
       img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 14330
-      dogName="Cavalier King Charles."
+      dogName="Cavalier King Charles"
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="They can adapt very well to apartment living, are very good for new owners, but can not tolerate being alone very well. They can tolerate the cold well but the not the best and the same with the heat. They are very friendly towards everyone, including other dogs. They shed a little bit but not much, don’t drool, are relatively easy to groom, have potential to gain weight, and are not large dogs. They are pretty easy to train, have a relatively high energy level, need plenty of exercise, and are extremely playful." 
       img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 24330
-      dogName="Cavalier King Charles."
+      dogName="Cavalier King Charles"
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="They can adapt very well to apartment living, are very good for new owners, but can not tolerate being alone very well. They can tolerate the cold well but the not the best and the same with the heat. They are very friendly towards everyone, including other dogs. They shed a little bit but not much, don’t drool, are relatively easy to groom, have potential to gain weight, and are not large dogs. They are pretty easy to train, have a relatively high energy level, need plenty of exercise, and are extremely playful." 
       img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 34330
-      dogName="Cavalier King Charles."
+      dogName="Cavalier King Charles"
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="They can adapt very well to apartment living, are very good for new owners, but can not tolerate being alone very well. They can tolerate the cold well but the not the best and the same with the heat. They are very friendly towards everyone, including other dogs. They shed a little bit but not much, don’t drool, are relatively easy to groom, have potential to gain weight, and are not large dogs. They are pretty easy to train, have a relatively high energy level, need plenty of exercise, and are extremely playful." 
       img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 15330
-      dogName="Cavalier King Charles."
+      dogName="Cavalier King Charles"
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="They can adapt very well to apartment living, are very good for new owners, but can not tolerate being alone very well. They can tolerate the cold well but the not the best and the same with the heat. They are very friendly towards everyone, including other dogs. They shed a little bit but not much, don’t drool, are relatively easy to groom, have potential to gain weight, and are not large dogs. They are pretty easy to train, have a relatively high energy level, need plenty of exercise, and are extremely playful." 
       img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
