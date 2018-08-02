@@ -13,8 +13,8 @@ Bundler.require
   get '/' do
     erb :'index.html'
   end
-  get '/' do
-    erb :'index.html'
+  get '/quiz' do
+    erb :'quiz.html'
   end
   get '/question' do
     erb :question
