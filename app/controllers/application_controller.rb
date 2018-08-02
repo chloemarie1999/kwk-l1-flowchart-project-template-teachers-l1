@@ -11,7 +11,7 @@ Bundler.require
 # class MyApp < Sinatra::Base
 
   get '/' do
-    erb :index
+    erb :'index.html'
   end
 
   get '/question' do
