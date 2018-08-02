@@ -412,6 +412,7 @@ elsif @user_ans == 35130
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 13230
+      dogName="Cockapoo."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="INSERT DESCRIPTION FOR COCKAPOO" img="http://www.ozcockapoos.net/ginger3.JPG"
       url="https://en.wikipedia.org/wiki/Cockapoo"
@@ -465,6 +466,7 @@ elsif @user_ans == 35230
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 13330
+      dogName="Cockapoo."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="INSERT DESCRIPTION FOR COCKAPOO" img="http://www.ozcockapoos.net/ginger3.JPG"
       url="https://en.wikipedia.org/wiki/Cockapoo"
