@@ -14,8 +14,8 @@ class MyApp < Sinatra::Base
     erb :index
   end
 
-  get '/quiz' do
-    erb :quiz
+  get '/question' do
+    erb :question
   end
   
   get '/about' do
