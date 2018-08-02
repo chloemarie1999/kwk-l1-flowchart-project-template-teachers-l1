@@ -7,7 +7,7 @@
   
   require 'bundler'
 Bundler.require
-require_relative 'models/question.rb'
+# require_relative 'models/question.rb'
 class MyApp < Sinatra::Base
 
   get '/' do
