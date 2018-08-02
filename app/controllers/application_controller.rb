@@ -1,4 +1,4 @@
-# class ApplicationController < Sinatra::Base
+class ApplicationController < Sinatra::Base
 
   configure do
     set :public_folder, 'public'
@@ -8,7 +8,7 @@
   require 'bundler'
 Bundler.require
 # require_relative 'models/question.rb'
-class MyApp < Sinatra::Base
+# class MyApp < Sinatra::Base
 
   get '/' do
     erb :index
