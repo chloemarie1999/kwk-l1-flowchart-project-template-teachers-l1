@@ -283,7 +283,7 @@ elsif @user_ans == 25120
 elsif @user_ans == 35120
       dogName="German Shepard."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR GERMAN SHEPARD" 
+      descrip="They do not adapt very well to apartment living, are not the best choice for a new owner, can tolerate being alone, can tolerate the cold very well, can tolerate the heat well. They are very friendly towards your family and children, but not very friendly towards other dogs and strangers. They shed a lot, do not drool, are very easy to groom, have very little potential for gaining weight, and relatively large dogs. They are very easy to train, are very smart, have a high tendency to to bark or howl. They are very playful, intense, and need a lot of exercise." 
       img="https://dgicdplf3pvka.cloudfront.net/images/dogbreeds/large/German-Shepherd.jpg"
       url="https://en.wikipedia.org/wiki/German_Shepherd"
 
