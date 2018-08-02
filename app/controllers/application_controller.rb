@@ -311,19 +311,22 @@ elsif @user_ans == 33220
 elsif @user_ans == 14220
       dogName="Cavalier King Charles."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
+      descrip="INSERT DESCRIPTION FOR KING CHARLES" 
+      img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 24220
       dogName="Cavalier King Charles."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR KING CHARLES" img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
+      descrip="INSERT DESCRIPTION FOR KING CHARLES" 
+      img="https://www.omlet.us/images/cache/1024/682/Dog-Cavalier_King_Charles_Spaniel-Three_little_Cavalier_King_Charles_Spaniel's_sitting_patiently.jpg"
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 34220
       dogName="German Shepard."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR GERMAN SHEPARD" img="https://dgicdplf3pvka.cloudfront.net/images/dogbreeds/large/German-Shepherd.jpg"
+      descrip="INSERT DESCRIPTION FOR GERMAN SHEPARD" 
+      img="https://dgicdplf3pvka.cloudfront.net/images/dogbreeds/large/German-Shepherd.jpg"
       url="https://en.wikipedia.org/wiki/German_Shepherd"
 
 elsif @user_ans == 15220
