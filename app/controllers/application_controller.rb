@@ -98,22 +98,22 @@ class MyApp < Sinatra::Base
 
     elsif @user_ans == 33210
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR COCKAPOO" img="http://www.ozcockapoos.net/ginger3.JPG”
+      descrip="INSERT DESCRIPTION FOR COCKAPOO" img="http://www.ozcockapoos.net/ginger3.JPG"
       url="https://en.wikipedia.org/wiki/Cockapoo"
 
     elsif @user_ans == 14210
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR COCKAPOO" img="http://www.ozcockapoos.net/ginger3.JPG”
+      descrip="INSERT DESCRIPTION FOR COCKAPOO" img="http://www.ozcockapoos.net/ginger3.JPG"
       url="https://en.wikipedia.org/wiki/Cockapoo"
 
     elsif @user_ans == 24210
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR COCKAPOO" img="http://www.ozcockapoos.net/ginger3.JPG”
+      descrip="INSERT DESCRIPTION FOR COCKAPOO" img="http://www.ozcockapoos.net/ginger3.JPG"
       url="https://en.wikipedia.org/wiki/Cockapoo"
 
     elsif @user_ans == 34210
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
-      descrip="INSERT DESCRIPTION FOR COCKAPOO" img="http://www.ozcockapoos.net/ginger3.JPG”
+      descrip="INSERT DESCRIPTION FOR COCKAPOO" img="http://www.ozcockapoos.net/ginger3.JPG"
       url="https://en.wikipedia.org/wiki/Cockapoo"
 
 elsif @user_ans == 15210
