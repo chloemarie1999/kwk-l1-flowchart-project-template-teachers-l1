@@ -70,6 +70,7 @@ class MyApp < Sinatra::Base
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
     elsif @user_ans == 15110
+      dogName="Cockapoo."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="INSERT DESCRIPTION FOR COCKAPOO" img="http://www.ozcockapoos.net/ginger3.JPG"
       url="https://en.wikipedia.org/wiki/Cockapoo"
@@ -87,6 +88,7 @@ class MyApp < Sinatra::Base
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
     elsif @user_ans == 13210
+      dogName="Cockapoo."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="INSERT DESCRIPTION FOR COCKAPOO" img="http://www.ozcockapoos.net/ginger3.JPG"
       url="https://en.wikipedia.org/wiki/Cockapoo"
@@ -194,9 +196,11 @@ elsif @user_ans == 35310
       url="https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
 
 elsif @user_ans == 13120
+      dogName="Cockapoo."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="INSERT DESCRIPTION FOR COCKAPOO" img="http://www.ozcockapoos.net/ginger3.JPG"
       url="https://en.wikipedia.org/wiki/Cockapoo"
+      
 elsif @user_ans == 23120
       dogName="Cavalier King Charles."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
@@ -246,6 +250,7 @@ elsif @user_ans == 35120
       url="https://en.wikipedia.org/wiki/German_Shepherd"
 
  elsif @user_ans == 13220
+      dogName="Cockapoo."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="INSERT DESCRIPTION FOR COCKAPOO" img="http://www.ozcockapoos.net/ginger3.JPG"
       url="https://en.wikipedia.org/wiki/Cockapoo"
@@ -299,6 +304,7 @@ elsif @user_ans == 35220
       url="https://en.wikipedia.org/wiki/German_Shepherd"
 
 elsif @user_ans == 13320
+      dogName="Cockapoo."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="INSERT DESCRIPTION FOR COCKAPOO" img="http://www.ozcockapoos.net/ginger3.JPG"
       url="https://en.wikipedia.org/wiki/Cockapoo"
@@ -352,6 +358,7 @@ elsif @user_ans == 35320
       url="https://en.wikipedia.org/wiki/German_Shepherd"
 
 elsif @user_ans == 13130
+      dogName="Cockapoo."
       welcome ="Thank you for taking our quiz, #{@user_name}. <br> <b> #{dogName}</a> </b> is the dog we've decided will works best for you!"
       descrip="INSERT DESCRIPTION FOR COCKAPOO" img="http://www.ozcockapoos.net/ginger3.JPG"
       url="https://en.wikipedia.org/wiki/Cockapoo"
